@@ -1,0 +1,14 @@
+{
+  "name": "black-spine",
+  "sideEffects": false,
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Borna Technology Ltd.",
+  "license": "MIT",
+  "dependencies": {
+    "@esotericsoftware/spine-core": "^4.1.5",
+    "black-engine": "^0.5.15"
+  }
+}
